@@ -31,7 +31,7 @@ func main() {
 
 Output
 
-![p2_no1](/02_Basic-Program/screenshots/p2_no1.jpg)
+![p2_no1](/02_Basic-Programming/screenshots/p2_no1.jpg)
 
 ## Faktor Bilangan
 ```
@@ -54,4 +54,4 @@ func main() {
 
 Output
 
-![p2_no2](/02_Basic-Program/screenshots/p2_no2.jpg)
+![p2_no2](/02_Basic-Programming/screenshots/p2_no2.jpg)

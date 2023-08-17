@@ -24,7 +24,7 @@ func main() {
 
 Output
 
-![p1_no1](/02_Basic-Program/screenshots/p1_no1.jpg)
+![p1_no1](/02_Basic-Programming/screenshots/p1_no1.jpg)
 
 ## Ganjil Genap
 ```
@@ -48,7 +48,7 @@ func main() {
 
 Output
 
-![p1_no2](/02_Basic-Program/screenshots/p1_no2.jpg)
+![p1_no2](/02_Basic-Programming/screenshots/p1_no2.jpg)
 
 ## Grade
 ```
@@ -83,7 +83,7 @@ func main() {
 
 Output
 
-![p1_no3](/02_Basic-Program/screenshots/p1_no3.jpg)
+![p1_no3](/02_Basic-Programming/screenshots/p1_no3.jpg)
 
 ## Fizz Buzz
 ```
@@ -106,4 +106,4 @@ func main() {
 
 Output
 
-![p1_no4](/02_Basic-Program/screenshots/p1_no4.jpg)
+![p1_no4](/02_Basic-Programming/screenshots/p1_no4.jpg)

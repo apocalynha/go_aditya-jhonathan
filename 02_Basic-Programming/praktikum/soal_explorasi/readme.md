@@ -33,4 +33,4 @@ func Palindrome(str string) bool {
 
 Output
 
-![e_no1](/02_Basic-Program/screenshots/e_no1.jpg)
+![e_no1](/02_Basic-Programming/screenshots/e_no1.jpg)
