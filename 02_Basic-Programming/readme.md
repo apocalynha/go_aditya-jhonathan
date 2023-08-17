@@ -1,0 +1,4 @@
+1. Golang merupakan salah satu bahasa backend yang bersifat open source. Golang dikembangkan oleh tim google dan dikembangkan dengan tujuan untuk memudahkan proses pengembangan, simpel, handal dan efisien
+2. Variabel secara sederhana yaitu tempat untuk menyimpan data. Biasanya variabel memiliki nama dan akan dipanggil ketika dibutuhkan data tersebut. Variabel hanya dapat menampung tipe data yang sama (boolean, string, numeric). 
+3. Operan adalah nilai asal yang akan digunakan didalam proses operasi. Operator adalah simbol yang digunakan untuk melakukan suatu operasi.
+4. Branching pada golang menggunakan if-else if-else dan switch-case. Sedangkan looping yaitu hanya menggunakan for.
