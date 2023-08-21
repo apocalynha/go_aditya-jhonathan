@@ -1,4 +1,4 @@
-# Soal Prioritas 1
+# Soal Prioritas 2
 ## Membuat branch
 
 ![buat_branch](/03_Version-Control-and-Branch-Management/screenshots/buat_branch.JPG)
