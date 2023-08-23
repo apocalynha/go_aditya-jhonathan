@@ -1,0 +1,3 @@
+1. Time Complexity adalah cara algoritma atau sistem berjalan dalam menjalankan operasinya dalam hal waktu.
+2. Cara menghitung waktu tersebut bergantung pada banyaknya operasi dominan (primitif seperti tambah, kurang, kali dan bagi) yang ada pada algoritma atau sistem tersebut.
+3. Jenis Time Complexity yaitu Constant time - O(1), Linear time - O(n), Linier time - O(n+m), Logarithmic time - O(Log n), Quadratic time - O(n^2), Factorial time - O(n!) and Exponential time - O(2^n).
