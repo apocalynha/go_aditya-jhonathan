@@ -1,5 +1,5 @@
 # Soal Prioritas 2
-## Menghitung String
+## 2 Pasangan
 
 ```
 package main
