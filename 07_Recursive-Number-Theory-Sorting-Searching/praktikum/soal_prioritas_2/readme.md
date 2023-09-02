@@ -1,4 +1,4 @@
-# Soal Prioritas 1
+# Soal Prioritas 2
 ## Domino
 
 ```
