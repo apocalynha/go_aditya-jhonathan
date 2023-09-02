@@ -25,7 +25,7 @@ func main() {
 
 Output
 
-![p1_no1](/08_ProblemSolvingParadigm-BruteForce-Greedy-and-DynamicProgramming/screenshots/p1_no2.JPG)
+![p1_no1](/08_ProblemSolvingParadigm-BruteForce-Greedy-and-DynamicProgramming/screenshots/p1_no1.JPG)
 
 ## Segitiga Pascal
 
