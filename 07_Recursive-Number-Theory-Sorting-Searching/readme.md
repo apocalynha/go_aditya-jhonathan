@@ -1,0 +1,4 @@
+1. Rekursif adalah situasi dimana suatu fungsi memanggil dirinya sendiri untuk menyelesaikan masalah tertentu.
+2. Number Theory adalah cabang dari matematika yang membahas tentang angka. Contoh dari Number Theory yaitu Bilangan Prima, Kelipatan Persekutuan Terkecil (KPK), Faktor Persekutuan Terbesar (FPB), Faktorial, Faktor Prima dan sebagainya.
+3. Searching adalah sebuah proses yang bertujuan untuk mencari sebuah data dari sekumpulan data. Beberapa metode Searching yaitu Linear Search - O(n) dan Builtin Search.
+4. Sorting adalah suatu proses untuk menyusun data sesuai dengan urutannya. Teknik Sorting yaitu Selection Sort - O(n^2), Counting Sort - O(n + k), Merge Sort - O(log n) dan Builtin Sort.
