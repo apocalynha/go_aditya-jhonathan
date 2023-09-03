@@ -1,0 +1,4 @@
+1. Sequential Program adalah program yang dieksekusi secara berurutan, mulai dari awal hingga akhir. Pada Sequential Program sebelum menjalankan tugas baru, tugas sebelumnya harus diselesaikan terlebih dahulu.
+2. Parallel Program adalah program yang dapat menjalankan beberapa tugas atau proses secara bersamaan. Parallel Program membutuhkan multi-core machines.
+3. Concurrent Program adalah program yang dapat menjalankan tugas secara independen dan  bersamaan tanpa harus menunggu selesai satu sama lain.
+4. Goroutine adalah suatu function atau method yang dapat berjalan secara bersamaan (independen) dengan function atau method yang lainnya.
