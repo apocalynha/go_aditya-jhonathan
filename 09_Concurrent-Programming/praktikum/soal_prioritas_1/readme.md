@@ -37,7 +37,7 @@ func main() {
 
 Output
 
-![p1_no1](/08_ProblemSolvingParadigm-BruteForce-Greedy-and-DynamicProgramming/screenshots/p1_no1.JPG)
+![p1_no1](/09_Concurrent-Programming/screenshots/p1_no1.JPG)
 
 ## Kelipatan 3 dengan Goroutine dan Channel
 
@@ -70,7 +70,7 @@ func main() {
 
 Output
 
-![p1_no2](/08_ProblemSolvingParadigm-BruteForce-Greedy-and-DynamicProgramming/screenshots/p1_no2.JPG)
+![p1_no2](/09_Concurrent-Programming/screenshots/p1_no2.JPG)
 
 ## Kelipatan 3 dengan Goroutine dan Buffer Channel
 
@@ -103,7 +103,7 @@ func main() {
 
 Output
 
-![p1_no3](/08_ProblemSolvingParadigm-BruteForce-Greedy-and-DynamicProgramming/screenshots/p1_no3.JPG)
+![p1_no3](/09_Concurrent-Programming/screenshots/p1_no3.JPG)
 
 ## Kelipatan 3 dengan Mutex
 
@@ -142,4 +142,4 @@ func main() {
 
 Output
 
-![p1_no4](/08_ProblemSolvingParadigm-BruteForce-Greedy-and-DynamicProgramming/screenshots/p1_no4.JPG)
+![p1_no4](/09_Concurrent-Programming/screenshots/p1_no4.JPG)
