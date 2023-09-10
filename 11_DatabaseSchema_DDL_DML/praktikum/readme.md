@@ -8,6 +8,6 @@
 
 Berikut link draw.io : https://drive.google.com/file/d/1TPCH9P5Xu2KDDmtkbeQIl6m_yRAMTej_/view?usp=sharing
 
-![skema_db](/11_DatabaseSchema_DDL_DML/screenshots/skema_db.JPG)
+![skema_db](/11_DatabaseSchema_DDL_DML/screenshots/skema_db.png)
 
 ## 
