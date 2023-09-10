@@ -1,0 +1,3 @@
+1. Clean Code adalah istilah untuk kode yang mudah dibaca, dipahami dan diubah oleh programmer.
+2. Beberapa karakteristik Clean Code yaitu penamaan mudah dipahami, mudah dieja dan dicari, singkat namun mendeskripsikan konteks, konsisten, hindari penambahan konteks yang tidak perlu, komentar yang baik dan benar, function yang baik dan benar, menggunakan konvensi, formatting.
+3. Prinsip dari Clean Code yaitu KISS (Keep It So Simple), DRY (Don't Repeat Yourself) dan Refactoring.
