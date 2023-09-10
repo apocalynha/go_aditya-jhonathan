@@ -13,6 +13,7 @@ Berikut link draw.io : https://drive.google.com/file/d/1TPCH9P5Xu2KDDmtkbeQIl6m_
 ## Data Definition Language (DDL)
 
 1. Create database alta_online_shop.
+
 ![create_db](/11_DatabaseSchema_DDL_DML/screenshots/create_db.JPG)
 
 2. Dari schema Olshop yang telah kamu kerjakan di, Implementasikanlah menjadi table pada MySQL.
