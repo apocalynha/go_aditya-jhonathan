@@ -1,7 +1,7 @@
 # Clean Code
 ## Install Oh My Zsh!
 
-![zsh](/13_Configuration_Management_and_CLI/screenshots/zsh.JPG)
+![omz](/13_Configuration_Management_and_CLI/screenshots/omz.JPG)
 
 ## Script Automate
 
