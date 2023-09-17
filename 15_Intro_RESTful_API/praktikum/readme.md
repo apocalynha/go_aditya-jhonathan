@@ -1,4 +1,4 @@
-# Clean Code
+# POSTMAN
 ## Skenario 1
 
 - Tampilkan data yang diperoleh dari API : https://jsonplaceholder.typicode.com/posts
