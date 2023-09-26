@@ -3,9 +3,11 @@ package config
 import (
 	"eksplorasi/models"
 	"fmt"
+	"github.com/joho/godotenv"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 	"log"
+	"os"
 )
 
 var (
@@ -18,11 +20,16 @@ func init() {
 }
 
 func InitDB() {
-	username := "apocalynha"
-	password := "apocalynha123"
-	host := "localhost"
-	port := "3306"
-	name := "prioritas1"
+
+	if err := godotenv.Load(); err != nil {
+		log.Fatalf("Failed to load .env file: %v", err)
+	}
+
+	username := os.Getenv("DB_USERNAME")
+	password := os.Getenv("DB_PASSWORD")
+	host := os.Getenv("DB_HOST")
+	port := os.Getenv("DB_PORT")
+	name := os.Getenv("DB_NAME")
 
 	connectionString := fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?parseTime=true",
 		username,
