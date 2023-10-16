@@ -1,0 +1,7 @@
+# Summary
+
+1. Software Testing adalah proses penganalisisan sebuah item perangkat lunak untuk menemukan perbedaan antara kondisi yang sebenarnya dengan kondisi yang diharapkan, serta untuk mengevaluasi fitur-fitur dari item perangkat lunak tersebut. Dengan kata lain, pengujian perangkat lunak adalah langkah penting dalam siklus pengembangan perangkat lunak yang bertujuan untuk mengidentifikasi kesalahan atau kecacatan dalam perangkat lunak yang dibangun, sehingga perangkat lunak tersebut dapat diuji, diperbaiki, dan dioptimalkan sebelum digunakan oleh pengguna akhir. 
+
+2. Unit Testing Framework adalah seperangkat alat, konvensi, dan panduan yang mempermudah proses penulisan dan pelaksanaan pengujian unit untuk perangkat lunak. Framework ini menyediakan cara terstruktur untuk membuat, mengorganisasi, dan menjalankan pengujian unit, sehingga memudahkan para pengembang memastikan bahwa komponen-komponen individu (unit) dalam kode mereka berfungsi dengan benar. 
+
+3. Mock adalah objek tiruan atau gantian yang diciptakan untuk mensimulasikan perilaku objek nyata. Objek tiruan ini digunakan untuk menggantikan komponen perangkat lunak yang mungkin sulit diuji atau memiliki dependensi eksternal, seperti panggilan ke basis data atau layanan web. Tujuan utama penggunaan mock adalah untuk memungkinkan pengujian unit (unit testing) yang terisolasi dan dapat diulang tanpa memerlukan sumber daya eksternal yang sebenarnya.
